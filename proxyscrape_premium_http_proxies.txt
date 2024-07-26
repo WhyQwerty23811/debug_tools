@@ -1,3 +1,10 @@
+proxy-nl.seedbox.fr:3128:gege838383:helios9999
+proxy.ufpr.br:3128:angela.jimenez:h%ta4689
+proxy-pl.seedbox.fr:3128:gege838383:helios9999
+proxy.ufpr.br:3128:kamila.colombo:kml*040989
+proxy.ufpr.br:3128:jonathan.santos@ufpr.br:amd7970xd!@sesi
+proxy-fi.seedbox.fr:3128:gege838383:helios9999
+proxy.ufpr.br:3128:isaiasholowate@ufpr.br:92780000.a
 104.207.51.87:3128
 104.207.53.255:3128
 104.207.44.168:3128
